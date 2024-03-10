@@ -1,2 +1,4 @@
 # Roadway-Accident-Dashboard
-Executed Academic project to create a Road Accident Dashboard using Roadway Accident Database. These dashboards and datasets are designed to provide high-quality information
+Executed Academic project to create a Road Accident Dashboard using Roadway Accident Database. These dashboards and datasets are designed to provide high-quality information to citizens, industry, data users, and policy makers. Using Charts like Bar, Pie, Donut, Line, Slicers, hyperlink, pivot tables which enables visual overview of data.Executed Academic project to create a Road Accident Dashboard using Roadway Accident Database. These dashboards and datasets are designed to provide high-quality information to citizens, industry, data users, and policy makers. Using Charts like Bar, Pie, Donut, Line, Slicers, hyperlink, pivot tables which enables visual overview of data.
+
+Skills: Query Writing · Analytical Skills · DAX · Business Intelligence (BI) · Pivot Tables · Microsoft Excel · Visualization
